@@ -11,23 +11,23 @@ http://gurtle.googlecode.com/svn/wiki/SupportIssues.png
 
 When you select one or more issues, Gurtle appends the number and summary of each issue to the commit log message.
 
-Feature Overview
+## Feature Overview
 
 Gurtle's issue browsing dialog box sports the following notable features:
 
-Download of issues in the background
-Sort issues by clicking on column headers
-Conduct free-text and interactive search along one or across all dispalyed columns
-Search issues as download happens in the background
-See closed in addition to open issues
-Unowned/Unassigned issues appear visually distinct (dimmed)
-Closed issues appear visually distinct (struck-out)
-Open detail page of an issue in the default Web browser
-Notification of version updates
-Requirements
+* Download of issues in the background
+* Sort issues by clicking on column headers
+* Conduct free-text and interactive search along one or across all dispalyed columns
+* Search issues as download happens in the background
+* See closed in addition to open issues
+* Unowned/Unassigned issues appear visually distinct (dimmed)
+* Closed issues appear visually distinct (struck-out)
+* Open detail page of an issue in the default Web browser
+* Notification of version updates
 
-TortoiseSVN or TortoiseGit
-Microsoft .NET Framework 2.0
-Any Windows version where TortoiseSVN and Microsoft .NET Framework 2.0 are supported though most testing has been conducted on Windows XP and Vista.
-Internet connection for reaching Google Code
-More details
+## Requirements
+
+* TortoiseSVN or TortoiseGit
+* Microsoft .NET Framework 2.0
+* Any Windows version where TortoiseSVN and Microsoft .NET Framework 2.0 are supported though most testing has been conducted on Windows XP and Vista.
+* Internet connection for reaching Google Code
